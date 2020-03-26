@@ -1,0 +1,26 @@
+{
+ "kind": "youtube#subscription",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/4dGK0urBcqE2k2zylUBMesM-vXI\"",
+ "id": "dr4Gp8XLk3xCpAPQHas0MRuPImNK_nD0m7AtBi2jrEQ",
+ "snippet": {
+  "publishedAt": "2018-11-09T15:30:20.353Z",
+  "title": "AFIFY WAS HERE",
+  "description": "رحالة ومغامر اجوب العالم 🌍 بشغف لمطاردة احلامي\nجزء من عائلة مجنونة هدفنا نلف العالم",
+  "resourceId": {
+   "kind": "youtube#channel",
+   "channelId": "UC0tmxpySNunSEtTLXpMj36w"
+  },
+  "channelId": "UCQORVgPh3JwBn4KjKJIJJRg",
+  "thumbnails": {
+   "default": {
+    "url": "https://yt3.ggpht.com/-gJtD4h05hGA/AAAAAAAAAAI/AAAAAAAAAAA/SbKF7tzD5SU/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "medium": {
+    "url": "https://yt3.ggpht.com/-gJtD4h05hGA/AAAAAAAAAAI/AAAAAAAAAAA/SbKF7tzD5SU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "high": {
+    "url": "https://yt3.ggpht.com/-gJtD4h05hGA/AAAAAAAAAAI/AAAAAAAAAAA/SbKF7tzD5SU/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   }
+  }
+ }
+}

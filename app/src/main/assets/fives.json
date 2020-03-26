@@ -1,0 +1,26 @@
+{
+ "kind": "youtube#subscription",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/H5F9AsAgZoT8X5fIOr08XYjsQGM\"",
+ "id": "dr4Gp8XLk3wrkJnCKB4FjX1rThfkwwGCua7QHGW4s18",
+ "snippet": {
+  "publishedAt": "2017-10-11T07:30:39.000Z",
+  "title": "Kareem Elsayed كريم السيد",
+  "description": "أسمى كريم السيد.\nمصرى مقيم فى انجلترا.\nفى القناة هنا بحاول اشارك تجاربى وخبراتى من خلال فيديوهاتى، يوميات مصرى فى الغربة هيا سلسة فلوجز/فلوقز هتشوف من خلالها تجربة حياتى كا مصرى مغترب.\nلو عجبتك الفيديوهات وعايز ديما تتابع الجديد متنساش تعمل اشتراك فى القناة.\n\nMy name is Kareem, an Egyptian lives in the UK.\nIn my YouTube Channel, I try to share my experience through my videos, \nin my series of Vlogs (Diary of an Egyptian abroad) you will see through my eyes the life of this Egyptian abroad.\nIf you find the videos interesting for you and you would like to watch more don't forget to subscribe  ;)",
+  "resourceId": {
+   "kind": "youtube#channel",
+   "channelId": "UCX5lX80yKjkzyXQWkkm3rOQ"
+  },
+  "channelId": "UCQORVgPh3JwBn4KjKJIJJRg",
+  "thumbnails": {
+   "default": {
+    "url": "https://yt3.ggpht.com/-Hpwasz1HLyU/AAAAAAAAAAI/AAAAAAAAAAA/E19fDPUe4uU/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "medium": {
+    "url": "https://yt3.ggpht.com/-Hpwasz1HLyU/AAAAAAAAAAI/AAAAAAAAAAA/E19fDPUe4uU/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "high": {
+    "url": "https://yt3.ggpht.com/-Hpwasz1HLyU/AAAAAAAAAAI/AAAAAAAAAAA/E19fDPUe4uU/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   }
+  }
+ }
+}

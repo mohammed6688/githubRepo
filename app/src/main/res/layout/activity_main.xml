@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            app:layout_scrollFlags="scroll|enterAlways"
+            android:theme="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="YOUTUBE"
+                android:textColor="#ffff"
+                android:textSize="17dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" PLAYER"
+                android:textColor="#ffff"
+                android:textSize="17dp"/>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/navview">
+        <com.sothree.slidinguppanel.SlidingUpPanelLayout
+            android:id="@+id/mLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            tools:context=".MainActivity"
+            app:umanoOverlay="true"
+            app:umanoPanelHeight="50dp"
+            app:umanoShadowHeight="0dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <FrameLayout
+                    android:id="@+id/nav_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#ffffff"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/uppanel">
+
+                <include layout="@layout/mediaplayerui" />
+            </RelativeLayout>
+
+        </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/navview"
+        android:layout_alignParentBottom="true"
+        android:background="@color/BabyBlue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/navegat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            app:menu="@menu/menu_fragment"
+            app:itemIconTint="@drawable/bottom_navigation_selector"
+            app:labelVisibilityMode="labeled"
+            app:itemTextColor="@color/Background"/>
+    </LinearLayout>
+</RelativeLayout>

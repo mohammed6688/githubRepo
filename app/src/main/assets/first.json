@@ -1,0 +1,26 @@
+{
+ "kind": "youtube#subscription",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/eAIQrUPkOtqfdq4_InKzVCILxh4\"",
+ "id": "dr4Gp8XLk3wrkJnCKB4FjShcypyhunWO0UNiOmtNrTg",
+ "snippet": {
+  "publishedAt": "2017-09-10T14:39:03.000Z",
+  "title": "Saba7o Korah - صباحو كورة",
+  "description": "كل ما يتعلق بكرة القدم.. تحليل تكتيكي ..تحديات .. فلوجات.. فيفا .. وأكتر!!\n#حلل_يا نصوحي \n\nتابعوني على تويتر...عمرو نصوحي \nNsoo7y@\n\nوعلى فيسبوك:\nhttps://www.facebook.com/Saba7oKorah\nhttps://www.facebook.com/AmrNsoo7y",
+  "resourceId": {
+   "kind": "youtube#channel",
+   "channelId": "UCAIxr4DpLZH-Iih4mlbLjiA"
+  },
+  "channelId": "UCQORVgPh3JwBn4KjKJIJJRg",
+  "thumbnails": {
+   "default": {
+    "url": "https://yt3.ggpht.com/-EJqJ3qvw0e8/AAAAAAAAAAI/AAAAAAAAAAA/7Uj7h0bQH4U/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "medium": {
+    "url": "https://yt3.ggpht.com/-EJqJ3qvw0e8/AAAAAAAAAAI/AAAAAAAAAAA/7Uj7h0bQH4U/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "high": {
+    "url": "https://yt3.ggpht.com/-EJqJ3qvw0e8/AAAAAAAAAAI/AAAAAAAAAAA/7Uj7h0bQH4U/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   }
+  }
+ }
+}

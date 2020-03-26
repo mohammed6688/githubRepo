@@ -1,0 +1,26 @@
+{
+ "kind": "youtube#subscription",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/z6TVZoU4YkYEfYkgSlrZlzumGLY\"",
+ "id": "dr4Gp8XLk3yezPWZltZHo5B_vIGXOWHLaQirD0Rd2NY",
+ "snippet": {
+  "publishedAt": "2020-03-26T20:24:37.000Z",
+  "title": "أسئلة نص الليل",
+  "description": "",
+  "resourceId": {
+   "kind": "youtube#channel",
+   "channelId": "UCYskjD6IuQJrxrW3I0EriZA"
+  },
+  "channelId": "UCQORVgPh3JwBn4KjKJIJJRg",
+  "thumbnails": {
+   "default": {
+    "url": "https://yt3.ggpht.com/-9NSNaJQhnBw/AAAAAAAAAAI/AAAAAAAAAAA/TysSPE3Op4Q/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "medium": {
+    "url": "https://yt3.ggpht.com/-9NSNaJQhnBw/AAAAAAAAAAI/AAAAAAAAAAA/TysSPE3Op4Q/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "high": {
+    "url": "https://yt3.ggpht.com/-9NSNaJQhnBw/AAAAAAAAAAI/AAAAAAAAAAA/TysSPE3Op4Q/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   }
+  }
+ }
+}

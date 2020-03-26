@@ -1,0 +1,26 @@
+{
+ "kind": "youtube#subscription",
+ "etag": "\"ksCrgYQhtFrXgbHAhi9Fo5t0C2I/--JHANmM7-N-sxObZZ5avPeVxK8\"",
+ "id": "dr4Gp8XLk3wrkJnCKB4FjQ0s6LhXZWdsfmUFlz-gNns",
+ "snippet": {
+  "publishedAt": "2019-08-14T12:56:35.552Z",
+  "title": "Android Basha | أندرويد باشا",
+  "description": "فيديوهات تقنية, مراجعات , مقارنات, تغطية لمؤتمرات عالمية من إعداد وتقديم صلاح حامد.\n\nTech video. reviews. comparisons and coverage of the world biggest tech events brought to you by Salah G. Hamed",
+  "resourceId": {
+   "kind": "youtube#channel",
+   "channelId": "UCs8vDlWQQJb21sLh9jh1qWA"
+  },
+  "channelId": "UCQORVgPh3JwBn4KjKJIJJRg",
+  "thumbnails": {
+   "default": {
+    "url": "https://yt3.ggpht.com/-9LbR2fSH8L0/AAAAAAAAAAI/AAAAAAAAAAA/smygYvLSyiw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "medium": {
+    "url": "https://yt3.ggpht.com/-9LbR2fSH8L0/AAAAAAAAAAI/AAAAAAAAAAA/smygYvLSyiw/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   },
+   "high": {
+    "url": "https://yt3.ggpht.com/-9LbR2fSH8L0/AAAAAAAAAAI/AAAAAAAAAAA/smygYvLSyiw/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+   }
+  }
+ }
+}
